@@ -1,0 +1,6 @@
+:root{
+ --cinza:#808080;
+}
+.input-range::-webkit-slider-thumb{
+background-attachment: var(--cinza);
+}
